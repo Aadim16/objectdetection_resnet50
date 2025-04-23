@@ -1,36 +1,36 @@
-# Object Detection Using Deep Learning
+Object Detection Using Deep Learning
 
 This project demonstrates the application of deep learning techniques to object detection tasks using popular architectures like YOLO and R-CNN. It was developed as part of the Deep Learning (CSE4006) course at VIT-AP University.
 
-## 📘 Project Overview
+📘 Project Overview
 
 Object detection is a computer vision technique that enables the identification and localization of objects within images. This notebook explores:
 
-- The fundamentals of object detection
-- Differences between **YOLOv7** and **R-CNN** models
-- Implementation insights and visual results
-- Comparative analysis of the performance of each model
+-> The fundamentals of object detection
+-> Differences between **YOLOv7** and **R-CNN** models
+-> Implementation insights and visual results
+-> Comparative analysis of the performance of each model
 
-## 📂 Contents
+📂 Contents
 
-- `Object_detection_DL_project_.ipynb`: Main Jupyter notebook containing all the code, analysis, and visualizations
-- Sample image inputs and output plots (if any included later)
-- Results section comparing model performances
+-> `Object_detection_DL_project_.ipynb`: Main Jupyter notebook containing all the code, analysis, and visualizations
+-> Sample image inputs and output plots (if any included later)
+-> Results section comparing model performances
 
-## 🧠 Models Covered
+🧠 Models Covered
 
-- **YOLOv7** (You Only Look Once)
-  - Real-time object detection
-  - Highly optimized for speed and performance
-- **R-CNN** (Region-based Convolutional Neural Network)
-  - More accurate but computationally intensive
-  - Better suited for detailed analysis
+-> YOLOv7(You Only Look Once)
+-> Real-time object detection
+-> Highly optimized for speed and performance
+-> R-CNN (Region-based Convolutional Neural Network)
+-> More accurate but computationally intensive
+-> Better suited for detailed analysis
 
-## 🔧 Technologies Used
+🔧 Technologies Used
 
-- Python
-- TensorFlow / PyTorch (depending on implementation)
-- OpenCV
-- NumPy
-- Matplotlib
-- Jupyter Notebook
+-> Python
+-> TensorFlow / PyTorch (depending on implementation)
+-> OpenCV
+-> NumPy
+-> Matplotlib
+-> Jupyter Notebook
